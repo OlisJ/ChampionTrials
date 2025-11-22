@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Admin Login</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <h1>Admin Login</h1>
